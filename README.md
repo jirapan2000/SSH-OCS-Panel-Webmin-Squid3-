@@ -4,5 +4,5 @@ wget https://raw.githubusercontent.com/hiphop2531/SSH-OCS-Panel-Webmin-Squid3-/m
 chmod +x debian7.sh
 ./debian7.sh
 
-คำสั่งเปลี่ยน Pass Webmin - /usr/share/webmin/changepass.pl /etc/webmin root Thong_2531
+คำสั่งเปลี่ยน Pass Webmin /usr/share/webmin/changepass.pl /etc/webmin root Thong_2531
 service webmin restart
